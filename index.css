@@ -1,0 +1,163 @@
+body{
+  background-color:burlywood !important;
+  margin: 0px;
+  padding:0px;
+}
+h1{
+  color:pink;
+  background-color: black;
+  border:3px solid black;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom:10px;
+  border-radius:60px;
+}
+h2{
+  color:#FAD0FF;
+  background-color:black!important;
+}
+
+
+.every{
+  background-color:#FFFED5!important;
+  border: 3px solid #899DFF;
+  padding-left: 50px;
+  padding-right: 50px;
+padding-top:50px;
+padding-bottom: 50px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 15px;
+margin-bottom: 15px;
+border-radius: 50px;
+}
+.ever{
+  background-color: #E2B0FF!important;
+  border:3px solid #FFB014;
+  padding-left: 130px;
+  padding-right:9px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  border-radius: 110px;
+}
+#bye{
+  background-color: #F1D5FF;
+  border: 3px solid #FF3AD5 ;
+  padding-left: 45px;
+  padding-right: 40px;
+  padding-top: 40px;
+  padding-bottom:40px;
+  margin-left: 10px;
+  margin-right: 13px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  border-radius: 60px;
+}
+ 
+    
+  
+
+  .navbar{
+    background-color:black ;
+    border-radius: 50px;
+    
+    
+  }
+  .navbar ul{
+    overflow: auto;
+    background-color: 
+    
+    
+  }
+  
+  .navbar li{
+    float: left;
+    list-style: none;
+    margin: 13px 20px;
+    
+  }
+  .navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    font-family: Verdana, sans-serif;
+    color:  black;
+    
+  }
+  .navbar li a:hover{
+    color:red;
+  }
+  .search{
+    color: red;
+    background-color: blanchedalmond;
+    border:2px solid indianred;
+    border-radius:40px;
+    padding-top: 0px;
+    
+    padding-right: px;
+    padding-left: 200px;
+    margin-top: 13px;
+   margin-right: auto;
+    
+  }
+  .navbar input{
+    border:2px solid black;
+    border-radius: 26px;
+    
+    
+    padding: 3px 40px;
+    margin-bottom: 10px;
+    width:60px;
+  }
+    ul{
+      list-style-type:none;
+      background-color:black;
+      color:black;
+    }
+    .lang{
+      display: none;
+    }
+    ul li{
+      display:inline-block;
+     
+      padding:10px;
+      
+    }
+    ul li:hover{
+      background-color:#E8EFEB;
+      color:white;
+    }
+   ul li:hover .lang{
+      display: block;
+      position: absolute;
+      margin-left: 0.10cm;
+      margin-top: 0.25cm;
+    }
+    .lang ul{
+      margin: 0px;
+      padding: 0px;
+    }
+    .lang ul li {
+      display: block;
+    }
+    .lang li a{
+      text-decoration: none;
+      color: red;
+    }
+
+    
+    
+     
+      
+    
+     
+    
+  
